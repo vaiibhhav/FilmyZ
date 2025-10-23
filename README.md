@@ -43,13 +43,10 @@ pip install -r requirements.txt
 ```
 ### 3.Finally Run the app
 ```bash
-streamlit run MovieIQ.py
+streamlit run FilmyZ.py
 ```
-## 📁 Dataset
-Make sure the project includes a `movies.csv` file with the following columns:<br>
-` budget, revenue, popularity, runtime, vote_average, title, genres`
 <br>
 ## 👨‍💻 Author<br>
 ### Naman Vora<br>
-#### Final Year CSE Student | Aspiring Data Analyst<br>
+#### Final Year Electrical Engineering Student at IIT Kanpur | Aspiring Data Analyst<br>
 📫 [LinkedIn](https://www.linkedin.com/in/vaibhav-sahu-a70453254/) 
