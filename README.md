@@ -1,4 +1,4 @@
-# 🎬 FilmyZ - Predictive Analytics on Film Success
+# 🎬 FilmyZ - Success Prediction of Films using basic Data Analytics 
 
 An interactive Streamlit dashboard that analyzes and predicts the success of movies using key performance indicators such as budget, revenue, popularity, runtime, and average votes. Built with Python, this project leverages data visualization, statistical testing, and machine learning (Random Forest) for movie performance insights.
 
@@ -8,12 +8,12 @@ An interactive Streamlit dashboard that analyzes and predicts the success of mov
 
 ## 📊 Key Features
 
-- 🎯 Predicts whether a movie is likely to be successful (Revenue > Budget)
-- 📈 Visual insights using Seaborn & Matplotlib (Budget vs Revenue, Genre Trends)
-- 📊 T-Test and Chi-Square statistical tests
-- 🤖 Random Forest Classifier for success prediction
-- 🧠 Interactive filtering by genre and vote average via sidebar
-- 🧼 Clean, modular dashboard ready for deployment
+🎯 Predicts whether a movie is likely to be successful (Revenue > Budget)
+📈 Visual insights using Seaborn & Matplotlib (Budget vs Revenue, Genre Trends)
+📊 T-Test and Chi-Square statistical tests
+🤖 Random Forest Classifier for success prediction
+🧠 Interactive filtering by genre and vote average via sidebar
+🧼 Clean, modular dashboard ready for deployment
 
 ---
 
@@ -33,8 +33,8 @@ An interactive Streamlit dashboard that analyzes and predicts the success of mov
 
 ### 1. First Clone the repository
 ```bash
-git clone https://github.com/nv2105/MovieIQ-Predictive-Analytics-on-Film-Success.git
-cd MovieIQ-Predictive-Analytics-on-Film-Success
+[git clone https://github.com/nv2105/MovieIQ-Predictive-Analytics-on-Film-Success.git
+cd MovieIQ-Predictive-Analytics-on-Film-Success](https://github.com/vaiibhhav/FilmyZ)
  
 ```
 ### 2. Then Install dependencies
